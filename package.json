@@ -1,6 +1,6 @@
 {
     "name": "escpos-typescript",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "ESC/POS printer library for Node.js written in TypeScript",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
@@ -10,7 +10,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/DrBackmischung/ESCPOS-TS"
+        "url": "https://github.com/DrBackmischung/ESCPOS-TypeScript"
     },
     "keywords": [
         "escpos",
