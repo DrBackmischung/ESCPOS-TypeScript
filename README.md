@@ -1,4 +1,4 @@
-# escpos-ts
+# escpos-typescript
 
 A **TypeScript library** for printing receipts, barcodes, and QR codes on **ESC/POS-compatible printers** via USB or the OS print system.  
 Supports Windows, macOS, and Linux using native commands like `lp` or `print.exe`.
@@ -19,7 +19,7 @@ Supports Windows, macOS, and Linux using native commands like `lp` or `print.exe
 ## 📦 Installation
 
 ```bash
-npm install escpos-ts
+npm install escpos-typescript
 ```
 
 ---
